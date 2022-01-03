@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i love u
+=======
+heyy all!
+>>>>>>> 9715d0acf636c4854d54d82cb6a960715eb28ac5
